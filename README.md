@@ -53,19 +53,24 @@ https://scratch.mit.edu/projects/1327264549
 ## Screenshots
 
 ### Game Introduction
+
 ![Intro](Screenshots/GameplayIntroScreen.png)
 
 ### Gameplay
+
 ![Gameplay](Screenshots/Game-In-Action.png)
 
 ### Winning Screen
-![Win(Screenshots/GameWinScreen.png)
+
+![Win](Screenshots/GameWinScreen.png)
 
 ### Dragon Collision
+
 ![Dragon](Screenshots/Caught-by-Dragon-Screen.png)
 
 ### Time Out Screen
-![Timeout](Screenshots/Time-Run-out-Screen.png)
+
+![Timeout](Screenshots/Time-Run out-Screen.png)
 
 ## Credits
 
