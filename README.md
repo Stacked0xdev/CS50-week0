@@ -70,7 +70,7 @@ https://scratch.mit.edu/projects/1327264549
 
 ### Time Out Screen
 
-![Timeout](Screenshots/Time-Run out-Screen.png)
+![Timeout](Screenshots/Time-Run-Out-Screen.png)
 ## Credits
 
 Sprites from the Scratch library.
